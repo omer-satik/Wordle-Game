@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="new_ex">
+    <file>quit_game.png</file>
+    <file>back_home.png</file>
+    <file>try_again.png</file>
+    <file>word_hunter.png</file>
+    <file>word_hunter_with_Text.png</file>
+  </qresource>
+</RCC>
